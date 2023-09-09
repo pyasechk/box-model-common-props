@@ -513,7 +513,7 @@ footer{
             - left: 0
 */
 #section4 p:last-of-type{
-    margin: 1 rem 0;
+    margin: 1rem 0;
 }
 
 /* ------------- SECTION 5 STYLES ---------------- */
@@ -643,7 +643,7 @@ footer{
         - clear any floats
 */
 #section9{
-    clear: top left top right;   
+    clear: both;   
 }
 
 /* ------------- SECTION 9 STYLES ---------------- */
